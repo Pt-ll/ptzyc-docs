@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a2 as r}from"./chunks/framework.DiXyETtc.js";const m=JSON.parse('{"title":"OI","description":"","frontmatter":{},"headers":[],"relativePath":"oi/index.md","filePath":"oi/index.md"}'),i={name:"oi/index.md"};function s(l,a,n,d,h,p){return t(),o("div",null,[...a[0]||(a[0]=[r("",6)])])}const c=e(i,[["render",s]]);export{m as __pageData,c as default};
